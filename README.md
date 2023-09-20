@@ -38,6 +38,20 @@ ATMEGA328P/PB microcontroller that performs the following functions:
     2. Apply Simple averaging algorithm to smooth the values to the accelerometer, gyro, and magnetometer data. Plot the above nine values as graphs.
     3. Apply Complementary to the accelerometer, gyro, and magnetometer data to determine the roll, pitch, and yaw of the sensor orientation. Plot the above three values as graphs.
 
+# MidTerm
+
+
+
+# Components
+Software:
+* Mircochip Studio
+  
+Hardware:
+* ATMEGA 328P
+
+
+
+
 
 
 Student Name: Angelo Nolasco
