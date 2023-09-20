@@ -1,4 +1,7 @@
-# UNLV CpE 301 Embedded System Design, implemented design assignment and midterm project using a ATMEGA 328P in Microchip Studio
+# UNLV CpE 301 Embedded System Design
+
+# OverView
+* implemented design assignment and midterm project using a ATMEGA 328P in Microchip Studio
 
 # Design Assignments
 * DA1 - Write, simulate, and demonstrate using Microchip Studio 7 an assembly code for the AVR
