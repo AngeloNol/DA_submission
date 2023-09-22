@@ -1,7 +1,7 @@
 # UNLV CpE 301 Embedded System Design
 
 # OverView
-* implemented design assignment and midterm project using a ATMEGA 328P in Microchip Studio
+* implemented design assignment and midterm project using a ATMEGA 328P in Microchip Studio, written in C
 
 # Design Assignments
 * DA1 - Write, simulate, and demonstrate using Microchip Studio 7 an assembly code for the AVR
@@ -42,24 +42,56 @@ ATMEGA328P/PB microcontroller that performs the following functions:
     3. Apply Complementary to the accelerometer, gyro, and magnetometer data to determine the roll, pitch, and yaw of the sensor orientation. Plot the above three values as graphs.
 
 # MidTerm
+* Midterm 1 : UART Interface
+   - Program the UART Module to interact with the ATmega328pb:
+        1. On transmitting the following keys from the host terminal, the following actions will be performed:
+        1. On-reboot or ‘h’ key – help screen (list all keys and functionalities)
+        2. ‘o’ - turns ON LED at PB5, ‘O’ turns OFF the LED at PB5.
+        3. ‘p’ - Blink (on-off) the LED PB3. Choose your own period. Only use timer mode. ‘P’ turns off
+        the LED PB3/stops this operation.
+        4. ‘f’ - fade the intensity of LED PB1. Choose your own frequency and step resolution. ‘F’ turns
+        off the LED PB1/stops this operation.
+        5. ‘b’ – reads the status of the switch at PC1. Display the status in terminal. Exit this function
+        when there is change of switch status.
+        6. Use UART RX interrupt for all of the above operations.
+
+* Midterm 2 : US + Servo Motor
+      1. Mount the HC-SR04 Ultrasonic sensor on to the servo motor using the mounting plate/horn. Scan
+    the servo motor from 0 – 180 deg. Collect the US distance/raw value continuously during the scan.
+    The resolution of scan has to be less that 2.5 deg.
+    2. Display your results as a two dimensional, 0 -180 deg distance graph. Update your scan after every
+    scan range. 
+
+# KiCad PCB Design
+* Design a Atmega 328P with compnents like LED, potentiometer, two push buttons, ICM-20948 sensor
 
 
 
 # Components
 Software:
 * Mircochip Studio
+* KiCad
   
 Hardware:
-* ATMEGA 328P
+* ATMEGA 328P Xplained Mini
+* Ardunio Multi-function Shield
+* Arduino Prototype Shield
+* USB Logic Analyzer
+* LCD
+* Stepper Motor
+* DC Motor
+* Servo Motor
+* Ultrasonic Sensor
+* MPU-6050
 
 
 
 
-
+# Student Info
 
 Student Name: Angelo Nolasco
-
-Student #: 5005497011
-
 Student Email: Nolasco@unlv.nevada.edu
+youtube link DAs: https://www.youtube.com/playlist?list=PLQKv7ukC_Zva5RjXT9Pd358gahEjTsdrr 
+youtube link MidTerm: https://www.youtube.com/playlist?list=PLQKv7ukC_ZvZvBtWoRn7U3fXBtwM975KZ
+
 
