@@ -12,6 +12,7 @@ communication.
 Software:
 * Mircochip Studio
 * KiCad
+
 Hardware:
 * ATMEGA 328P Xplained Mini
 * Ardunio Multi-function Shield
