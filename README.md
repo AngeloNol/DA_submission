@@ -1,7 +1,28 @@
 # UNLV CpE 301 Embedded System Design
 
 # OverView
-* implemented design assignment and midterm project using a ATMEGA 328P in Microchip Studio, written in C
+* Study of the microcontrollers and its application to a broad range of engineering problems.
+Study of architecture, instruction set, interfaces, etc. Study of Assembly and C
+programming for microcontrollers. Use of simulation and emulation. Study of
+microcontroller interface with sensors, actuators, motors, peripheral devices and
+communication. 
+* implemented design assignment and midterm project using a ATMEGA 328P in Microchip Studio
+
+# Components
+Software:
+* Mircochip Studio
+* KiCad
+Hardware:
+* ATMEGA 328P Xplained Mini
+* Ardunio Multi-function Shield
+* Arduino Prototype Shield
+* USB Logic Analyzer
+* LCD
+* Stepper Motor
+* DC Motor
+* Servo Motor
+* Ultrasonic Sensor
+* MPU-6050
 
 # Design Assignments
 * DA1 - Write, simulate, and demonstrate using Microchip Studio 7 an assembly code for the AVR
@@ -64,28 +85,6 @@ ATMEGA328P/PB microcontroller that performs the following functions:
 
 # KiCad PCB Design
 * Design a Atmega 328P with compnents like LED, potentiometer, two push buttons, ICM-20948 sensor
-
-
-
-# Components
-Software:
-* Mircochip Studio
-* KiCad
-  
-Hardware:
-* ATMEGA 328P Xplained Mini
-* Ardunio Multi-function Shield
-* Arduino Prototype Shield
-* USB Logic Analyzer
-* LCD
-* Stepper Motor
-* DC Motor
-* Servo Motor
-* Ultrasonic Sensor
-* MPU-6050
-
-
-
 
 # Student Info
 * Student Name: Angelo Nolasco
