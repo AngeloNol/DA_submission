@@ -88,10 +88,9 @@ Hardware:
 
 
 # Student Info
-
-Student Name: Angelo Nolasco
-Student Email: Nolasco@unlv.nevada.edu
-youtube link DAs: https://www.youtube.com/playlist?list=PLQKv7ukC_Zva5RjXT9Pd358gahEjTsdrr 
-youtube link MidTerm: https://www.youtube.com/playlist?list=PLQKv7ukC_ZvZvBtWoRn7U3fXBtwM975KZ
+* Student Name: Angelo Nolasco
+* Student Email: Nolasco@unlv.nevada.edu
+* youtube link DAs: https://www.youtube.com/playlist?list=PLQKv7ukC_Zva5RjXT9Pd358gahEjTsdrr 
+* youtube link MidTerm: https://www.youtube.com/playlist?list=PLQKv7ukC_ZvZvBtWoRn7U3fXBtwM975KZ
 
 
